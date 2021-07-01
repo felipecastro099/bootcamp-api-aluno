@@ -1,6 +1,4 @@
-package com.example.apimediaalunos.models;
-
-import java.util.List;
+package com.example.apimediaalunos.entities;
 
 public class Disciplina {
     private String nome;

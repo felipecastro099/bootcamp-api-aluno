@@ -1,6 +1,6 @@
 package com.example.apimediaalunos.dto;
 
-import com.example.apimediaalunos.models.Aluno;
+import com.example.apimediaalunos.entities.Aluno;
 
 public class AlunoResponseDTO {
     private Aluno aluno;

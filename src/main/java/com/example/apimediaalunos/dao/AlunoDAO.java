@@ -1,8 +1,8 @@
 package com.example.apimediaalunos.dao;
 
 import com.example.apimediaalunos.dto.AlunoDTO;
-import com.example.apimediaalunos.models.Aluno;
-import com.example.apimediaalunos.models.Disciplina;
+import com.example.apimediaalunos.entities.Aluno;
+import com.example.apimediaalunos.entities.Disciplina;
 
 import java.util.List;
 

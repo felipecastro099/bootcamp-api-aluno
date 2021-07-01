@@ -1,4 +1,4 @@
-package com.example.apimediaalunos.models;
+package com.example.apimediaalunos.entities;
 
 import java.util.List;
 

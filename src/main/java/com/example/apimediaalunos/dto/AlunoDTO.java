@@ -1,6 +1,6 @@
 package com.example.apimediaalunos.dto;
 
-import com.example.apimediaalunos.models.Disciplina;
+import com.example.apimediaalunos.entities.Disciplina;
 
 import java.util.List;
 
